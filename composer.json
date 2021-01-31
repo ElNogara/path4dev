@@ -12,6 +12,6 @@
   },
 
   "post-install-cmd": [
-    "chmod -R 777 web/"
+    "chmod -R 777 public/"
   ]
 }
