@@ -6,7 +6,12 @@
     "symfony/twig-bridge": "^3",
     "alrik11es/cowsayphp": "^1.2"
   },
+
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
-  }
+  },
+
+  "post-install-cmd": [
+    "chmod -R 777 web/"
+  ]
 }
