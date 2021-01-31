@@ -1,2 +1,2 @@
 <?php
-echo "Deu certo, mas mesmo assim o Gui continua reclamando";
+echo "Deu certo, WELL NUNCA ERRA NESSA PORRA";
